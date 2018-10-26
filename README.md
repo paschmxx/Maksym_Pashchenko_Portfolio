@@ -14,7 +14,7 @@ Maksym Pashchenko - Designer, developer
 
 [How to download] 
 
-Beyond the main website, there is also have the app for all the mobile devices, such as: Android & IOS. 
+Beyond the main website, there is also the app for all the mobile devices, such as: Android & IOS. 
 Nowadays most of the people are connected with their phones more than their computers which is why I conveineintly created an app so that our customers can easily look through our works and stay connected with MP.
 
 [Troubleshooting & FAQ] 
